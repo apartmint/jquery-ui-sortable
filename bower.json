@@ -1,5 +1,5 @@
 {
-  "name": "jQuery UI Sortable",
+  "name": "jquery-ui-sortable",
   "version": "1.11.4",
   "description": "jQuery UI Sortable",
   "main": ["./jquery-ui-sortable.min.js","./jquery-ui-sortable.js"],
